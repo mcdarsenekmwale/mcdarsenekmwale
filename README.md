@@ -80,9 +80,4 @@ Here are some ideas to get you started:
 <!--![Total Contributions](https://github-readme-stats.vercel.app/api?username=mcdarsenekmwale&hide=prs&show_icons=true) --!>
 
 
-<a href="https://github.com/mcdarsenekmwale/travel-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcdarsenekmwale&repo=travel-app" />
-</a>
-<a href="https://github.com/mcdarsenekmwale/crypto_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcdarsenekmwale&repo=crypto_app" />
-</a>
+
